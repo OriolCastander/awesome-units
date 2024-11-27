@@ -9,3 +9,5 @@ Constants that are used for conversions to systems with adimensional stuff are s
 Lots of stuff to do, among them numpy support. Leave a comment and such.
 
 Create a venv and run pip install -r requirements.txt, or simply have numpy available that is the only thing in use.
+
+Better yet, run 'python setup.py bdist_wheel' to build the wheel (will be in dist/) and then run it anywhere you want
